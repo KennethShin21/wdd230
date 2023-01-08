@@ -15,6 +15,5 @@ const myPicture = "Kenneth's Picture"
 document.querySelector('#photo').src = 'images/myPic.jpg';
 document.querySelector('#photo').setAttribute('width', '300px');
 
-
-
-
+let text = document.lastModified;
+document.getElementById("last_updated").innerHTML = text;
