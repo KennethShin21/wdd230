@@ -19,8 +19,11 @@ footer {
 }
 
 header {
-    margin: auto;
+    margin: 25px;
     text-align: center;
+    background-color: grey;
+    color: #03101b;
+    padding: 0.5em;
 }
 
 label {
