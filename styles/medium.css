@@ -1,7 +1,10 @@
+
 /* HTML Selectors */
 body {
     font-family: 'Kalam', cursive;
 }
+
+h1, h2, h3, p { font-family: 'Montserrat', 'Open Sans', sans-serif; }
 
 div {
     margin: 10px;
